@@ -1,6 +1,4 @@
 """
-pdf_to_menu.py
---------------
 Reads ΜΕΝΟΥ-YYYY.pdf and generates a restaurantMenu.js file.
 
 The number of weeks (N) is determined automatically from the PDF —
